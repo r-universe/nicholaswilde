@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/nicholaswilde/nicholaswilde.r-universe.dev
 	branch = HEAD
+[submodule "gbbo"]
+	path = gbbo
+	url = https://github.com/nicholaswilde/the-great-british-bake-off
+	branch = main
+	subdir = r
 [submodule "theamazingrace"]
 	path = theamazingrace
 	url = https://github.com/nicholaswilde/the-amazing-race
